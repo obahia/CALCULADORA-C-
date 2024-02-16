@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\bin\Debug\CALCULADORA_CERTA.exe.config
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\bin\Debug\CALCULADORA_CERTA.exe
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\bin\Debug\CALCULADORA_CERTA.pdb
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.Form1.resources
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.Properties.Resources.resources
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.exe
+C:\Users\user\source\repos\CALCULADORA_CERTA\CALCULADORA_CERTA\obj\Debug\CALCULADORA_CERTA.pdb
